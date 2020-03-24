@@ -10,5 +10,6 @@ go run client/main.go
 # command list
 
 /login [Name]
+
 /quit 
 
